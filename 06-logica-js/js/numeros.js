@@ -1,8 +1,10 @@
+
 var num1 = prompt("Ingresa el primer numero a comparar")
 
 var num2 = prompt("Ingresa el segundo numero a comparar")
 
 var num3 = prompt("Ingresa el tercer numero a comparar")
+
 
 if(num1>num2){
     if(num1>num3){

@@ -1,4 +1,5 @@
-var conversion = prompt("Ingresa los grados Farenheit")
+var conversion= prompt("Ingresa los grados Farenheit")
+
 
 var conversion
 var resultado=total
